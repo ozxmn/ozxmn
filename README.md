@@ -1,16 +1,26 @@
-## Hi there 👋
+# Mansur Ozaman
 
-<!--
-**ozxmn/ozxmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year computer science student at Nazarbayev University in Astana. I work on telling human-made content from machine-made content, mostly in Kazakh.
 
-Here are some ideas to get you started:
+### Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Unchecked or Falsely Accused? Evaluating AI-Generated Text Detectors on Kazakh** (2026, under review)
+
+AINA-KK: 3,811 Kazakh passages written before ChatGPT and 5,597 machine passages from 9 generators. Five public English-trained detectors flagged up to 81.4% of the human passages. AINA-KK-Det, the detector released with the paper, flags 0.9% of human test passages.
+
+[paper](https://arxiv.org/abs/2610.15870) · [code](https://github.com/ozxmn/aina-kk) · [data](https://huggingface.co/datasets/ajnasiou/aina-kk) · [detector](https://huggingface.co/ajnasiou/aina-kk-det) · [project page](https://aina-kk.vercel.app)
+
+**Evaluating Deep Learning and Traditional Approaches Used in Source Camera Identification** (SIDe'26, Springer STEAM-H)
+
+Which of four smartphones took a photo? Hand-built JPEG/DCT features reached 94.7% accuracy, an ImageNet ResNet-18 reached 62.3%.
+
+[paper](https://arxiv.org/abs/2511.19180) · [code](https://github.com/ozxmn/edltauSCI) · [data](https://huggingface.co/datasets/ajnasiou/edltauSCI)
+
+### Products
+
+- [Authini](https://authini.co): detection of AI-generated images and video
+- [Choovy](https://choovy.app): digital menus for restaurants
+
+### Contact
+
+[ozaman.vercel.app](https://ozaman.vercel.app) · [Hugging Face](https://huggingface.co/ajnasiou) · mansur.ozaman@nu.edu.kz
